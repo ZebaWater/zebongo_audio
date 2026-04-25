@@ -13,7 +13,10 @@
   "stains.mp3":   { "title": "Stains of Time",  "artist": "Kit Walters" },
   "teen.mp3":   { "title": "Smells Like Teen Spirit",  "artist": "Nirvana" },
   "ussewa.mp3":   { "title": "Ussewa",  "artist": "Ado" },
-  "jane.mp3":   { "title": "Jane Doe",  "artist": "Kenshi Yonezu" }
+  "jane.mp3":   { "title": "Jane Doe",  "artist": "Kenshi Yonezu" },
+  "hunting.mp3":   { "title": "Hunting Soul",  "artist": "HAYASii" },
+  "way.mp3":   { "title": "On The Way",  "artist": "AiNA THE END " }
+  
   
   
 }
