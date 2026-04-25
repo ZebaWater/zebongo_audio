@@ -12,7 +12,8 @@
   "serenade.mp3":   { "title": "Serenade",  "artist": "natori" },
   "stains.mp3":   { "title": "Stains of Time",  "artist": "Kit Walters" },
   "teen.mp3":   { "title": "Smells Like Teen Spirit",  "artist": "Nirvana" },
-  "ussewa.mp3":   { "title": "Ussewa",  "artist": "Ado" }
+  "ussewa.mp3":   { "title": "Ussewa",  "artist": "Ado" },
+  "jane.mp3":   { "title": "Jane Doe",  "artist": "Kenshi Yonezu" }
   
   
 }
