@@ -1,0 +1,8 @@
+{
+  "bomb.mp3":   { "title": "Bomb",  "artist": "Kensuke Ushio" },
+  "cow.mp3":     { "title": "Gdzie jest biały węgorz? (Zejście)", "artist": "Cypis" },
+  "pool.mp3":  { "title": "In the Pool",    "artist": "Kensuke Ushio" },
+  "storm.mp3":  { "title": "Ride the Storm",    "artist": "Kensuke Ushio" },
+  "summer.mp3":  { "title": "Slow Summer Eve",    "artist": "Kensuke Ushio" },
+  "typhoon.mp3":  { "title": "Typhoon Devil",    "artist": "Kensuke Ushio" }
+}
