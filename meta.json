@@ -4,5 +4,15 @@
   "pool.mp3":  { "title": "In the Pool",    "artist": "Kensuke Ushio" },
   "storm.mp3":  { "title": "Ride the Storm",    "artist": "Kensuke Ushio" },
   "summer.mp3":  { "title": "Slow Summer Eve",    "artist": "Kensuke Ushio" },
-  "typhoon.mp3":  { "title": "Typhoon Devil",    "artist": "Kensuke Ushio" }
+  "typhoon.mp3":  { "title": "Typhoon Devil",    "artist": "Kensuke Ushio" },
+  "csmed3.mp3":  { "title": "2-hundred-million-centimeter-long blades",    "artist": "Maximum the Hormone" },
+  "csmed5.mp3":   { "title": "In the Backroom",  "artist": "sydou" },
+  "eye.mp3":   { "title": "Eye of The Typhoon",  "artist": "Kensuke Ushio" },
+  "franxx.mp3":   { "title": "Kiss of Death",  "artist": "Mika Nakashima" },
+  "serenade.mp3":   { "title": "Serenade",  "artist": "natori" },
+  "stains.mp3":   { "title": "Stains of Time",  "artist": "Kit Walters" },
+  "teen.mp3":   { "title": "Smells Like Teen Spirit",  "artist": "Nirvana" },
+  "ussewa.mp3":   { "title": "Ussewa",  "artist": "Ado" }
+  
+  
 }
